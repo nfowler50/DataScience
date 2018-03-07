@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Nov  6 10:34:27 2017
+
+@author: nickfowler
+"""
+
+rocko@gmail.com
+shooba@aol.com
+dooper@phys.ksu.edu
+robb@gmail.com
+tay@aol.com
+shabboob@gmail.com
+rockadocka.fareal@gmail.com

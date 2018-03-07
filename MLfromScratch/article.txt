@@ -1,0 +1,51 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Nov  6 08:35:44 2017
+
+@author: nickfowler
+"""
+
+
+Science Licenses for Journal Article Reuse
+Science journal articles are subject to a variety of license terms.  This page explains which licenses govern the use of Science journal articles.    
+
+Default License for the Final Published Version of Science journal articles (AAAS-Formatted Journal Articles)
+
+Except as otherwise permitted in writing by AAAS, use of the Final Published Version is governed by the Terms of Service and/or the Subscription Agreement and any applicable copyright laws.  For articles made publicly accessible through CHORUS, the Final Published Version will be made publicly accessible to nonsubscribers following a one-year embargo period.
+
+Science journal articles may be used for Text and Data Mining by Non-Commercial Institutions with an active Institutional License to Science for purely internal non-commercial research purposes, for as long as the Licensee maintains a subscription to the Licensed Materials, subject to the terms and conditions in  the Science Online Journals Institutional License Agreement. For articles made publicly accessible through CHORUS (and not otherwise available under a CC license), the Final Published Version will be made available for Text Data Mining, for non-commercial purposes only, to all users one year after the date of publication.
+
+Default License for the Accepted Version of Science journal articles
+
+Except as otherwise permitted in writing by AAAS, Science's License to Publish applies to the Accepted Version (the version of the paper accepted for publication by AAAS including changes resulting from peer review but prior to AAAS’s copy editing and production).
+
+Works by Employees of the U.S. Government and Australian, Canadian, New Zealand, and United Kingdom Crown
+
+Works authored exclusively by employees of the U.S. Government may not be subject to copyright.  Works authored by employees of the Australian, Canadian, New Zealand, or United Kingdom Governments might be subject to Crown Copyright.  However, access to those articles published in subscription Science journals is by subscription only and is subject to the Science Terms of Service and the journal Subscription Agreement.
+
+Creative Commons Licenses
+
+Some but not all AAAS published journal articles are published under either a Creative Commons Attribution License (CC-BY 4.0) or a Creative Commons Attribution-NonCommercial License (CC BY-NC 4.0).
+
+Any further distribution or use of content published under CC BY 4.0 must maintain attribution to the author(s) and the published article’s title, journal citation, and DOI.
+
+Any further distribution or use of content published under CC BY-NC 4.0 must be restricted to Non-commerial uses and must maintain attribution to the author(s) and the published article’s title, journal citation, and DOI.
+
+Science Advances articles published under a CC BY License may be used for Text and Data Mining purposes, subject to the conditions of the CC BY License terms.
+
+Science Advances articles published under a CC BY-NC License may be used for Text and Data Mining for non-commercial purposes only, subject to the conditions of the CC BY-NC License terms.
+
+Science journal articles may be used for Text and Data Mining by Non-Commercial Institutions with an active Institutional License to Science for purely internal non-commercial research purposes, for as long as the Licensee maintains a subscription to the Licensed Materials, subject to the terms and conditions in  the Science Online Journals Institutional License Agreement. For articles made publicly accessible through CHORUS (and not otherwise available under a CC license), the Final Published Version will be made available for Text Data Mining, for non-commercial purposes only, to all users one year after the date of publication. 
+
+Advertisement
+
+Latest News
+
+Trending
+Most Read
+The finalists are in: Pick your winner for this year’s Dance Your Ph.D.
+3D printing doubles the strength of stainless steel
+Quantum experiment in space confirms that reality is what you make it
+Sloshing of Earth’s core may spike major earthquakes
+Six papers by disgraced surgeon should be retracted, report concludes
