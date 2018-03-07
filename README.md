@@ -15,4 +15,17 @@ This is a collection of my work in data science
         UnsupervisedModels
         FeatureEngineering
         ModelEvaluation
+        
+## AnalysisPractice ###
+  This includes simple experimentation with basic tools such as Numpy and pandas
+  
+## Projects ##
+These are projects from Kaggle, Analytics Vidhya, and other similar sources
+
+    Iris: the basic iris dataset
+    BostonHousing
+    Titanic
+    LoanPrediction
+    ActivityRecognition
+    BigMartSales
     
