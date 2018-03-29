@@ -22,10 +22,10 @@ These are projects from Kaggle, Analytics Vidhya, and other similar sources
 
     Black Friday
     Handwritten Digits (MNIST)
-    Iris: the basic iris dataset
     BostonHousing
     Titanic
     LoanPrediction
+    Iris: the basic iris dataset
     ActivityRecognition
     BigMartSales
     
