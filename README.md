@@ -1,6 +1,19 @@
 # DataScience
 This is a collection of my work in data science
 
+## Projects ##
+These are projects from Kaggle, Analytics Vidhya, and other similar sources
+
+    Black Friday
+    Handwritten Digits (MNIST)
+    BostonHousing
+    Titanic
+    LoanPrediction
+    Iris: the basic iris dataset
+    ActivityRecognition
+    BigMartSales
+    
+
 ## DataScienceFromScratch ##
 
   Completed with the text "Data Science from Scratch" by Joel Grus
@@ -17,15 +30,3 @@ This is a collection of my work in data science
     ModelEvaluation
         
         
-## Projects ##
-These are projects from Kaggle, Analytics Vidhya, and other similar sources
-
-    Black Friday
-    Handwritten Digits (MNIST)
-    BostonHousing
-    Titanic
-    LoanPrediction
-    Iris: the basic iris dataset
-    ActivityRecognition
-    BigMartSales
-    
