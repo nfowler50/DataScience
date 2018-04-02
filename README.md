@@ -13,7 +13,7 @@
     ActivityRecognition
     BigMartSales
     
-## SQL Problems ##
+## SQL ##
   This folder includes a series of problems from "SQL Practice Problems" by Sylvia Vasilik.
 
 ## DataScienceFromScratch ##
