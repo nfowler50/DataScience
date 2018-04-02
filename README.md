@@ -1,8 +1,8 @@
 # DataScience
-This is a collection of my work in data science
+  This is a collection of my work in data science
 
 ## Projects ##
-These are projects from Kaggle, Analytics Vidhya, and other similar sources
+  These are projects from Kaggle, Analytics Vidhya, and other similar sources
 
     Black Friday
     Handwritten Digits (MNIST)
@@ -13,6 +13,8 @@ These are projects from Kaggle, Analytics Vidhya, and other similar sources
     ActivityRecognition
     BigMartSales
     
+## SQL Problems ##
+  This folder includes a series of problems from "SQL Practice Problems" by Sylvia Vasilik.
 
 ## DataScienceFromScratch ##
 
